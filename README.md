@@ -1,6 +1,6 @@
 # Librecad-for-Android
 Librecad for Android
-<img width="2400" height="1080" alt="Screenshot_20261122_164820_LibreCAD" src="https://github.com/user-attachments/assets/d131deb4-6249-4935-8bcb-a23a36cab398" />
+<img width="2400" height="1080" alt="Screenshot_20261122_164820_LibreCAD" src="https://github.com/user-attachments/assets/fd6b3a3e-45ea-4b6a-babc-e30999c8676c" />
 
 Getting Started
 Installing Librecad may take approximately 20 minutes. To ensure a smooth installation, you can switch to other apps while the process continues in the background.
